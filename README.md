@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm a Second Year Computer Science Student at York University.<br><br>💻 VP-External at CSHub YU<br>♟️ Outreach Coordinator and Event Manager at ChessBlitz YU<br>📖 Co-Lead developer for C.O.R.E YU<br><br>I just finished an internship at [Tatras Data](https://tatrasdata.com/)<br>I'm currently working on a passion project of mine called [PwnSensei](https://github.com/gur-sin/PwnSensei)<br>I'm also collaborating on building an app for the C.O.R.E club as one of the lead developers<br><br>Currently interested in:<br>> Low Level development<br>> Embedded systems programming<br>> Network programming
+Hey! I'm a Second Year Computer Science Student at York University.<br><br>💻 VP-External at CSHub YU<br>♟️ Outreach Coordinator and Event Manager at ChessBlitz YU<br>📖 Co-Lead developer for C.O.R.E YU<br><br><br>I'm also collaborating on building an app for the C.O.R.E club as one of the lead developers<br><br>Currently interested in:<br>> Low Level development<br>> Embedded systems programming<br>> Network programming
 
 
 ## 🌐 Socials:
